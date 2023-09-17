@@ -6,9 +6,9 @@
 
 ![grade](grade.png)
 
-> This project is from UC Berkeley's CS 61B(Data Structures & Algorithms) Spring 2021 version and passed all the tests(Expect the tests for extra credits) from GradeScope.<br>
+> This project is from UC Berkeley's CS 61B(Data Structures & Algorithms) Spring 2021 version and passed all the tests(Expect the tests for extra credits) from GradeScope.
 
-> Gitlet is a local version control system that contain similar basic features of the popular system Git with smaller and simpler<br> functionalities.
+> Gitlet is a local version control system that contain similar basic features of the popular system Git with smaller and simpler functionalities.
 
 > Full Spec: [Gitlet](https://sp21.datastructur.es/materials/proj/proj2/proj2)
 
@@ -27,7 +27,7 @@
 ### Commit.Java
 
 #### Description:
-> This class store all the commits with a message, a unique commit ID parent IDs, date and a hashmap that contain filename as key and<br> 
+> This class store all the commits with a message, a unique commit ID parent IDs, date and a hashmap that contain filename as key and 
 > blob ID as value in the COMMIT_DIR.
 
 ### Removal.Java
