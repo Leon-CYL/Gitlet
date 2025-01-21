@@ -4,8 +4,6 @@
 
 ## Description:
 
-![grade](grade.png)
-
 > This project is from UC Berkeley's CS 61B(Data Structures & Algorithms) Spring 2021 version and passed all the tests(Expect the tests for extra credits) from GradeScope.
 
 > Gitlet is a local version control system that contain similar basic features of the popular system Git with smaller and simpler functionalities.
